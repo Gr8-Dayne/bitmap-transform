@@ -13,3 +13,7 @@ Through research and teamwork, a plan was devised.
 ### Don't believe us? Try it!
 
 To run this you can run ./gradlew test in the CLI or import the app to IntelliJ and run it from there.
+
+#### Credit
+
+When outside assistance was used, it was listed near the code blocks where it helped me. I do want to say that the class demos really assisted me here though.
